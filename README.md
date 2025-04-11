@@ -8,7 +8,7 @@ I'm a Javascript enthusiast with experience using Django and React to create ful
 
 * 🌍  I'm based in Perth
 * ✉️  You can contact me at [brookeashleighpierson@gmail.com](mailto:brookeashleighpierson@gmail.com)
-* 🧠  I'm learning Javascript
+* 🧠  I'm drilling down on Javascript and SQL
 * 🤝  I'm open to collaborating on different projects
 * ⚡  Working on some data structures and algorithms
 
