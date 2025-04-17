@@ -10,7 +10,7 @@ I'm a Javascript enthusiast with experience using Django and React to create ful
 * ✉️  You can contact me at [brookeashleighpierson@gmail.com](mailto:brookeashleighpierson@gmail.com)
 * 🧠  I'm drilling down on Javascript and SQL
 * 🤝  I'm open to collaborating on different projects
-* ⚡  Working on some data structures and algorithms
+* ⚡  Working on some DSA
 
 ### Skills
 
