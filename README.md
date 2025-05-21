@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Javascript Developer
 --------------------
 
-I'm a Javascript enthusiast with experience using Django and React to create fullstack applications. Currently expanding my knowledge of the wonders of JS through hands on projects.
+I'm a Javascript enthusiast with experience using Django and React to create fullstack applications. Currently expanding my knowledge of the wonders of JS learning the Angular framework.
 
 * 🌍  I'm based in Perth
 * ✉️  You can contact me at [brookeashleighpierson@gmail.com](mailto:brookeashleighpierson@gmail.com)
