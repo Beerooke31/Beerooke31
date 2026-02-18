@@ -1,16 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brooke Pierson
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 
-Javascript Developer
---------------------
-
-I'm a Javascript enthusiast with experience using Django and React to create fullstack applications. Currently expanding my knowledge of the wonders of JS learning the Angular framework.
-
-* 🌍  I'm based in Perth
-* ✉️  You can contact me at [brookeashleighpierson@gmail.com](mailto:brookeashleighpierson@gmail.com)
-* 🧠  I'm drilling down on Javascript and SQL
-* 🤝  I'm open to collaborating on different projects
-* ⚡  Working on some DSA
 
 ### Skills
 
